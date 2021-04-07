@@ -5,7 +5,7 @@ Instruction:
 Think of a question and run the program
 
 ```
-$ruby 8ball.rb
+$ ruby 8ball.rb
 ```
 
 it will give you the answer.
