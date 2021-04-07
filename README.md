@@ -4,6 +4,8 @@ A program written in Ruby that prints a random string to the console. Strings ar
 Instruction:
 Think of a question and run the program
 
-```.../file_directory>ruby 8ball.rb```
+```
+$ruby 8ball.rb
+```
 
 it will give you the answer.
